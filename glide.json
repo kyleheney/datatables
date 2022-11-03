@@ -1,0 +1,35 @@
+{
+  "name": "Glide Datatables",
+  "description": "",
+  "author": "Kyle Heney <kyleheney@gmail.com>",
+  "params": [
+    {
+      "name": "table",
+      "displayName": "HTML Table",
+      "type": "string"
+    },
+    {
+      "name": "tableID",
+      "displayName": "Table Element ID",
+      "type": "string"
+    },
+    {
+      "name": "buttons",
+      "displayName": "Buttons",
+      "type": "string"
+    },
+    {
+      "name": "colReorder",
+      "displayName": "Column Reordering",
+      "type": "boolean"
+    },
+    {
+      "name": "domOptions",
+      "displayName": "DOM Options",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
